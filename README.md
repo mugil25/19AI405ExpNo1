@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Prem Kumar G</h3>
-<h3>Register Number/Staff Id: 212223230158</h3>
+<h3>Name: Mugil M</h3>
+<h3>Register Number/Staff Id: 212223230127</h3>
 
 
 <h3>AIM:</h3>
